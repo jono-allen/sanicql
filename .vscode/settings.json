@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/g10/Envs/graphql-next/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.formatting.blackPath": "black",
+    "editor.formatOnSave": true
+}
